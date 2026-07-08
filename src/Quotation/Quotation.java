@@ -5,6 +5,7 @@ public class Quotation {
 	
 	public void display()
 	{
+		//funzione che stampa quote stringa
 		System.out.println(quote);
 	}
 }
